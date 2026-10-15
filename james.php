@@ -1,0 +1,4 @@
+<?
+$name="Hello ";
+echo $name;
+>
